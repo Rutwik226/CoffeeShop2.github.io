@@ -409,6 +409,9 @@ div{
         height: 140px;
         margin-left: -80px;
     }
+    .map{
+        width: 100% !important;
+    }
     
 } 
 @media(max-width:1366px){
