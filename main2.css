@@ -412,6 +412,9 @@ div{
     .map{
         width: 100% !important;
     }
+    .m-2{
+        margin: 10%;
+    }
     
 } 
 @media(max-width:1366px){
